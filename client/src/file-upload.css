@@ -1,0 +1,22 @@
+h2 {
+  text-align: center;
+  color: rgb(84, 145, 225);
+}
+
+.file__upload {
+  width: 800px;
+  height: 200px;
+  margin: 20px 20px 20em 20em;
+}
+.file__button {
+  margin-left: 42em;
+}
+
+th {
+  text-align: center;
+}
+table,
+td,
+th {
+  border: 1px solid;
+}
